@@ -36,3 +36,7 @@ div {
     margin-bottom: 10px;
   }
 }
+
+.th[src = ""] {
+  border-top: none;
+}
